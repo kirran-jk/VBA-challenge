@@ -3,9 +3,9 @@
 This repository contains a VBA script file called runAll which runs through all other VBA scripts in the repository; vba_Challenge and then bonus_Challenge. The script can be ran via a button within the workbook Multiple_year_stock_data.
 
 VBA Scripts:
-![runAll_Script](runAll_Script.vbs)
-![vba_Challenge_Script](vba_Challenge_Script.vbs)
-![bnus_Challenge_Script](bonus_Challenge_Script.vbs)
+[runAll_Script](runAll_Script.vbs)
+[vba_Challenge_Script](vba_Challenge_Script.vbs)
+[bnus_Challenge_Script](bonus_Challenge_Script.vbs)
 
 The vba_Challenge script creates 4 columns on each worksheet within the workbook: Ticker, Yearly Change, Percent Change, and Total Stock Volume. The columns contain the following:
 
@@ -28,6 +28,6 @@ The bonus_Challenge script creates a summary table on each worksheet within the 
 
 Screen shots of yearly results:
 
-![2018_Results](2018_Results.pdf)
-![2019_Results](2019_Results.pdf)
-![2020_Results](2020_Results.pdf)
+[2018_Results](2018_Results.pdf)
+[2019_Results](2019_Results.pdf)
+[2020_Results](2020_Results.pdf)
