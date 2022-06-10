@@ -3,6 +3,7 @@
 This repository contains a VBA script file called runAll which runs through all other VBA scripts in the repository; vba_Challenge and then bonus_Challenge. The script can be ran via a button within the workbook Multiple_year_stock_data.
 
 VBA Scripts:
+
 [runAll_Script](runAll_Script.vbs) \
 [vba_Challenge_Script](vba_Challenge_Script.vbs) \
 [bonus_Challenge_Script](bonus_Challenge_Script.vbs)
